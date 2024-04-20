@@ -1,0 +1,1 @@
+trials * n^2 is the order of growth

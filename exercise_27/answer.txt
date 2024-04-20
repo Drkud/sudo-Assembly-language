@@ -1,0 +1,5 @@
+1. Missing Element: 1 second
+2. Missing Element: 17 hours
+3. Missing Element: 11.7 Days
+
+All of the orders of growth are linear
