@@ -44,7 +44,7 @@
 # the base directory
 
 # to access stdlib put the line
-# import stdlib.*;
+# i5;
 # to any files which need to 
 # access classes in the stdlib
 # you may also only want to import
@@ -90,7 +90,8 @@ export bash_config="$base_dir/bash_config.sh"
 
 
 # classpath environment var
-export CLASSPATH=".:$base_dir/libs"
+export CLASSPATH=".:$base_dir/libs:$base_dir/CPU/CicurtsCPU:$base_dir:$base_dir/CPU/memory"
+
 
 # aliases
 alias jdb="jdb -sourcepath $CLASSPATH"

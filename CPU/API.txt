@@ -1,0 +1,48 @@
+
+
+
+1 set (r1 ,r2) (M ,N)
+	set r2 to r1
+2 mov(r1,r2) (M, M)
+	moves r2 to r1 
+3 push(r1)
+ not finished
+4 pop(r1);
+	not finished
+5 inc(r1) (M);
+	++
+6 dec(r1) (M)
+	-- 
+7 neg(r1) (M);
+	makes the number neg
+8 add(r1, r2) (M ,M);
+	addtion
+9 sub(r1,r2) (M ,M);
+	subtarct
+10 imul(r1,r2) (M , M);
+	Multuion
+11 xor(r1,r2) (M , M);
+	bitwise xor
+12 or(r1,r2) (M,M);
+	bitwise or
+13 and(r1,r2) (M ,M);
+	bitwise and
+14 jmp(r1) (M);
+	jumps to a new index in the memory
+15 eqz(r1) (M);
+
+16 neqz(r1) (m);
+	
+17 eqn(r1) (M);
+	
+18 gt(r1,r2);
+	greater than then moves to the next block
+19 lt(r1,r2);
+	less than if then moves to the next else skips the next block
+
+
+20 out (r1 , r2 );
+return the acsii value of the bounds of r1 to r2 
+
+21 outi (r1 , r2)
+return the int value of the bounds of r1 to r2 
