@@ -1,0 +1,16 @@
+1000
+i is 400
+range is 401
+set 401 100
+def forloop 1000 1
+
+gt 400 401
+jmp 2000
+2000
+inc 400
+jmp 1016
+1032
+
+end 1
+forloop 1
+outi 400 401

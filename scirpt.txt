@@ -1,0 +1,68 @@
+1000
+jmp 1000
+
+
+def KGC 1300 1
+
+setd 2 7 1
+setd 3 7 1
+setd 4 7 1
+setd 5 7 1
+setd 6 7 1
+setd 7 7 1
+setd 8 7 1
+setd 9 7 1
+setd 10 7 1
+setd 11 7 1
+setd 12 7 1
+
+setd 2 4 1
+setd 2 5 1
+setd 2 6 1
+setd 12 5 1
+setd 12 6 1
+setd 12 4 1
+
+setd 9 4 1
+setd 9 3 1
+setd 9 2 1
+setd 9 1 1
+setd 5 1 1
+setd 5 2 1
+setd 5 3 1
+setd 5 4 1
+setd 7 1 1
+setd 7 2 1
+setd 7 3 1
+setd 7 4 1
+setd 7 5 1
+setd 7 6 1
+setd 7 7 1
+setd 6 4 1
+setd 8 4 1
+
+setd 7 8 1
+setd 7 9 1
+setd 8 9 1
+setd 9 9 1
+setd 10 9 1
+setd 6 9 1
+setd 5 9 1
+setd 4 9 1
+setd 6 10 1
+setd 9 11 1
+setd 8 10 1
+setd 5 11 1
+setd 9 12 1
+setd 5 12 1
+setd 5 13 1
+setd 9 13 1
+setd 6 14 1
+setd 7 14 1
+setd 8 14 1
+
+end 1
+KGC 1
+
+
+end 1
